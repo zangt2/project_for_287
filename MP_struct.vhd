@@ -1,14 +1,3 @@
----------------------------------------------------------------------------------------------------
---! @file
---! @brief This is the top-level design for a simple 8-bit microprossesor.
---! @details This is a 8-bit microprocessor which is know as SAP-1 or
---! Simple-As-Possible Computer. It is described in [1].
---! @author Ahmed Shahein
---! @email ahmed.shahein@ieee.org
---! @see [1] Malvino, A.P. and Brown, J.A., "Digital computer electronics", Glencoe/McGraw-Hill, 1992.
---!
---! @image html Architecture.png
----------------------------------------------------------------------------------------------------
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.std_logic_arith.all;
