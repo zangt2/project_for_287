@@ -1,3 +1,4 @@
+-- Simple microprocessor that compiles but we could never really get to work as we didn't know how to give it a program to run
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
